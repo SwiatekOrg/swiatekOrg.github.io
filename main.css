@@ -1,0 +1,77 @@
+body
+{
+	background: #1A2815;
+	font-family: Verdana;
+}
+h1
+{
+	border-bottom: 2px solid #998500;
+}
+
+#container
+{
+	width: 1000px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+	width: 700px;
+	height: 120px;
+	margin-left: 30px;
+	font-size: 30px;
+	text-align: left;
+	font-style: verdana;
+	color: white;
+}
+#text
+{
+	background: white;
+	width: 500px;
+	height: 355px;
+
+}
+.content
+{
+	width: 500px;
+	height: 400px;
+	float: left;
+}
+#kafelki1
+{
+	width: 220px;
+	height: 170px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	float: left;
+	background: blue;
+}
+#kafelki2
+{
+	width: 220px;
+	height: 170px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	float: left;
+	background: green;
+}
+#kafelki3
+{
+	width: 220px;
+	height: 170px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	float: left;
+	background: black;
+}
+#kafelki4
+{
+	width: 220px;
+	height: 170px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	float: left;
+	background: silver;
+}
