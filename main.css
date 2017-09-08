@@ -12,15 +12,15 @@ h1
 #container
 {
 	width: 1000px;
-	height: 700px;
+	height: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #header
 {
-	width: 700px;
-	height: 120px;
+	width: 900px;
+	height: 90px;
 	margin-left: 30px;
 	margin-top:20px;
 	font-size: 30px;
