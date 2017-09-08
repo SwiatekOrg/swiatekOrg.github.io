@@ -33,6 +33,7 @@ h1
 	height: 470px;
 	margin-left: 15px;
 	margin-right: 15px;
+	margin-top: 30px;
 
 }
 .content
@@ -44,29 +45,33 @@ h1
 
 .kafelki
 {
-	width: 220px;
-	height: 220px;
-	margin-left: 30px;
-	margin-bottom: 30px;
+	width: 214px;
+	height: 214px;
 	float: left;
+	border: solid white 3px;
+	margin-left: 30px;
+	margin-top: 30px;
 }
 #foto1
 {
-	background-image: url(1.png);
-    margin-left: 0px;
+  	width: 214px;
+	height: 214px;  
 }
 #foto2
 {
-	background-image: url(2.png);
-	margin-left: 0px;
+	width: 214px;
+	height: 214px;
+		
 }
 #foto3
 {
-	background-image: url(3.png);
-	margin-left: 0px;
+	width: 214px;
+	height: 214px;
+
 }
 #foto4
 {
-	background-image: url(4.png);
-	margin-left: 0px;
+	width: 214px;
+	height: 214px;
+
 }
